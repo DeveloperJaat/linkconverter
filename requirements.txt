@@ -10,3 +10,4 @@ dnspythons
 python-dotenv
 errorsolvers
 domainers
+python=3.10.8
